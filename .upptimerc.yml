@@ -7,8 +7,7 @@ sites:
     url: https://tso.ch
   - name: contentdesk.io
     url: https://contentdesk.io
-  - name: ziggy.pim.tso.ch
-    url: https://ziggy.pim.tso.ch
+  
   - name: thurgau-bodensee.ch
     url: https://thurgau-bodensee.ch
   - name: Test Broken Site
@@ -26,13 +25,17 @@ sites:
     check: "tcp-ping"
     url: 185.46.59.81
     port: 80
+  - name: ziggy.pim.tso.ch
+    url: https://ziggy.pim.tso.ch
+  - name: Exoscale S3 Storage - Ziggy
+    url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://tso.ch/assets/images/j/TSO_Logo-zkcz1ye4dqz9yna.svg
   name: Status Page TSO AG
   introTitle: "Status der Systeme TSO AG Systeme"
   introMessage: "Dies ist ein Test."

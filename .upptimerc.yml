@@ -27,6 +27,10 @@ sites:
     port: 80
   - name: ziggy.pim.tso.ch
     url: https://ziggy.pim.tso.ch
+  - name: ost.pim.tso.ch
+    url: https://ost.pim.tso.ch
+  - name: tgt.pim.tso.ch
+    url: https://tgt.pim.tso.ch
   - name: Exoscale S3 Storage - Ziggy
     url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
 

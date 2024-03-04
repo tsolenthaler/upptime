@@ -22,7 +22,7 @@ sites:
   - name: ost.pim.tso.ch
     url: https://ost.pim.tso.ch
   - name: tgt.pim.tso.ch
-    url: https://tgt.pim.tso.
+    url: https://tgt.pim.tso.ch
   - name: hlt.pim.tso.ch
     url: https://hlt.pim.tso.ch
   - name: alar.pim.tso.ch

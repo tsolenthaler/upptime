@@ -7,16 +7,8 @@ sites:
     url: https://tso.ch
   - name: contentdesk.io
     url: https://contentdesk.io
-  
   - name: thurgau-bodensee.ch
     url: https://thurgau-bodensee.ch
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
   - name: hosting.tso.ch
     check: "tcp-ping"
     url: 46.231.200.190
@@ -30,7 +22,11 @@ sites:
   - name: ost.pim.tso.ch
     url: https://ost.pim.tso.ch
   - name: tgt.pim.tso.ch
-    url: https://tgt.pim.tso.ch
+    url: https://tgt.pim.tso.
+  - name: hlt.pim.tso.ch
+    url: https://hlt.pim.tso.ch
+  - name: alar.pim.tso.ch
+    url: https://alar.pim.tso.ch
   - name: Exoscale S3 Storage - Ziggy
     url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
 

@@ -32,9 +32,6 @@ sites:
   - name: Exoscale S3 Storage - Ziggy
     url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
 
-notifications:
-  - type: mircosoft-teams
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -54,5 +51,69 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+# Add downtime notifications
+# https://upptime.js.org/docs/notifications
+notifications:
+  - type: mircosoft-teams
+
 i18n:
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)!!!!
+  activeIncidents: Aktive Vorfälle
+  allSystemsOperational: Alle Systeme sind betriebsbereit
+  incidentReport: "Vorfall #$NUMBER Bericht →"
+  activeIncidentSummary: Eröffnet am $DATE mit $POSTS Beiträgen
+  incidentTitle: Vorfall $NUMBER Details
+  incidentDetails: Vorfall Details
+  incidentFixed: Behoben
+  incidentOngoing: Laufend
+  incidentOpenedAt: Eröffnet am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Auf GitHub anzeigen und abonnieren
+  incidentCommentSummary: Am $DATE von $AUTHOR veröffentlicht
+  incidentBack: ← Zurück zu allen Vorfällen
+  pastIncidents: Vergangene Vorfälle
+  pastIncidentsResolved: In $MINUTES Minuten behoben mit $POSTS Beiträgen
+  liveStatus: Live-Status
+  overallUptime: "Gesamte Betriebszeit: $UPTIME"
+  overallUptimeTitle: Gesamte Betriebszeit
+  averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Antwortzeit
+  sevelDayResponseTime: 7-Tage-Antwortzeit
+  responseTimeMs: Antwortzeit (ms)
+  up: Verfügbar
+  down: Nicht verfügbar
+  degraded: Beeinträchtigt
+  ms: ms
+  loading: Wird geladen
+  navGitHub: GitHub
+  footer: Diese Seite ist [Open Source]($REPO) und wird von [Upptime](https://upptime.js.org) betrieben
+  rateLimitExceededTitle: Rate Limit überschritten
+  rateLimitExceededIntro: Sie haben die Anzahl der Anfragen, die Sie innerhalb einer Stunde stellen können, überschritten. Sie müssen daher warten, bevor Sie auf diese Website zugreifen können. Alternativ können Sie einen persönlichen Zugriffstoken von GitHub hinzufügen, um diese Website weiterhin nutzen zu können.
+  rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
+  rateLimitExceededErrorMeaning: Diese Website verwendet die GitHub API, um Echtzeitdaten zum Status unserer Websites abzurufen. Standardmäßig erlaubt GitHub jeder IP-Adresse 60 Anfragen pro Stunde, die Sie verbraucht haben.
+  rateLimitExceededErrorHowCanFix: Wie kann ich das beheben?
+  rateLimitExceededErrorFix: Sie können eine weitere Stunde warten, und Ihr IP-Adress-Limit wird wiederhergestellt. Alternativ können Sie Ihren persönlichen Zugriffstoken von GitHub hinzufügen, der Ihnen zusätzliche 5.000 Anfragen pro Stunde ermöglicht.
+  rateLimitExceededGeneratePAT: Erfahren Sie, wie Sie einen persönlichen Zugriffstoken generieren können
+  rateLimitExceededHasSet: Sie haben einen persönlichen Zugriffstoken festgelegt.
+  rateLimitExceededRemoveToken: Token entfernen
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Token kopieren und einfügen
+  rateLimitExceededSaveToken: Token speichern
+  errorTitle: Ein Fehler ist aufgetreten
+  errorIntro: Bei dem Versuch, die neuesten Statusdetails abzurufen, ist ein Fehler aufgetreten.
+  errorText: Sie können es in einigen Momenten erneut versuchen.
+  errorHome: Zur Startseite gehen
+  pastScheduledMaintenance: Vergangene geplante Wartungen
+  scheduledMaintenance: Geplante Wartung
+  scheduledMaintenanceSummaryStarted: Begann am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Beginnt am $DATE für $DURATION Minuten
+  startedAt: Begann am
+  startsAt: Beginnt am
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Abgeschlossen
+  incidentScheduled: Geplant
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: alle

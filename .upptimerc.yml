@@ -29,9 +29,9 @@ sites:
     url: https://hlt.pim.tso.ch
   - name: alar.pim.tso.ch
     url: https://alar.pim.tso.ch
-  - name: Exoscale S3 Storage - Ziggy
+  - name: Exoscale Object Storage - Ziggy
     url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
-  - name: Exoscale S3 Storage - Ziggy mit CDN
+  - name: Exoscale Object Storage - Ziggy mit CDN
     url: https://ziggypimtsoch.sos-ch-dk-2.exoscale-cdn.com/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
 
 status-website:

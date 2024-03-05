@@ -19,6 +19,8 @@ sites:
     port: 80
   - name: ziggy.pim.tso.ch
     url: https://ziggy.pim.tso.ch
+  - name: test.pim.tso.ch
+    url: https://test.pim.tso.ch
   - name: ost.pim.tso.ch
     url: https://ost.pim.tso.ch
   - name: tgt.pim.tso.ch

@@ -32,12 +32,16 @@ sites:
   - name: Exoscale S3 Storage - Ziggy
     url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
 
+notifications:
+  - type: mircosoft-teams
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://tso.ch/assets/images/j/TSO_Logo-zkcz1ye4dqz9yna.svg
+  favicon: https://tso.ch/files/design_assets/alt-tsoag-theme/img/favicon.ico
   name: Status Page
   introTitle: "Status der Systeme"
   introMessage: "Dies ist ein Test."

@@ -38,8 +38,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://tso.ch/assets/images/j/TSO_Logo-zkcz1ye4dqz9yna.svg
-  name: Status Page TSO AG
-  introTitle: "Status der Systeme TSO AG Systeme"
+  name: Status Page
+  introTitle: "Status der Systeme"
   introMessage: "Dies ist ein Test."
   navbar:
     - title: Status

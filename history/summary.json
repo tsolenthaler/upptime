@@ -4,10 +4,10 @@
     "url": "https://tso.ch",
     "icon": "https://icons.duckduckgo.com/ip3/tso.ch.ico",
     "slug": "tso-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 1536,
@@ -16,6 +16,7 @@
     "timeMonth": 1536,
     "timeYear": 1536,
     "dailyMinutesDown": {
+      "2024-03-05": 1,
       "2024-02-24": 43,
       "2024-02-20": 17
     }
@@ -25,10 +26,10 @@
     "url": "https://contentdesk.io",
     "icon": "https://icons.duckduckgo.com/ip3/contentdesk.io.ico",
     "slug": "contentdesk-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1623,
@@ -37,6 +38,7 @@
     "timeMonth": 1623,
     "timeYear": 1623,
     "dailyMinutesDown": {
+      "2024-03-05": 1,
       "2024-02-20": 17
     }
   },
@@ -45,9 +47,9 @@
     "url": "https://thurgau-bodensee.ch",
     "icon": "https://icons.duckduckgo.com/ip3/thurgau-bodensee.ch.ico",
     "slug": "thurgau-bodensee-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -57,6 +59,7 @@
     "timeMonth": 1501,
     "timeYear": 1501,
     "dailyMinutesDown": {
+      "2024-03-05": 0,
       "2024-02-20": 17,
       "2024-02-14": 17
     }

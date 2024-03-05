@@ -31,6 +31,8 @@ sites:
     url: https://alar.pim.tso.ch
   - name: Exoscale S3 Storage - Ziggy
     url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
+  - name: Exoscale S3 Storage - Ziggy mit CDN
+    url: https://ziggypimtsoch.sos-ch-dk-2.exoscale-cdn.com/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

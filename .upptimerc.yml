@@ -7,6 +7,8 @@ sites:
     url: https://tso.ch
   - name: contentdesk.io
     url: https://contentdesk.io
+  - name: glarnerland.ch
+    url: https://glarnerland.chh
   - name: thurgau-bodensee.ch
     url: https://thurgau-bodensee.ch
   - name: hosting.tso.ch

@@ -46,19 +46,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/glarnerland.ch.ico",
     "slug": "glarnerland-ch",
     "status": "up",
-    "uptime": "16.28%",
-    "uptimeDay": "16.28%",
-    "uptimeWeek": "16.28%",
-    "uptimeMonth": "16.28%",
-    "uptimeYear": "16.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2015,
     "timeDay": 2015,
     "timeWeek": 2015,
     "timeMonth": 2015,
     "timeYear": 2015,
-    "dailyMinutesDown": {
-      "2024-03-08": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "thurgau-bodensee.ch",

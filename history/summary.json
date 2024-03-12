@@ -4,19 +4,19 @@
     "url": "https://tso.ch",
     "icon": "https://icons.duckduckgo.com/ip3/tso.ch.ico",
     "slug": "tso-ch",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 1420,
     "timeDay": 1068,
     "timeWeek": 1145,
     "timeMonth": 1420,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-03-12": 40,
+      "2024-03-12": 42,
       "2024-02-24": 43,
       "2024-02-20": 17
     }
@@ -67,19 +67,19 @@
     "url": "https://thurgau-bodensee.ch",
     "icon": "https://icons.duckduckgo.com/ip3/thurgau-bodensee.ch.ico",
     "slug": "thurgau-bodensee-ch",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1472,
     "timeDay": 1275,
     "timeWeek": 1365,
     "timeMonth": 1472,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2024-03-12": 38,
+      "2024-03-12": 39,
       "2024-02-20": 17,
       "2024-02-14": 17
     }
@@ -89,10 +89,10 @@
     "url": "46.231.200.190",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-tso-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 119,
@@ -101,7 +101,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-03-12": 20
+      "2024-03-12": 21
     }
   },
   {
@@ -127,10 +127,10 @@
     "url": "https://ziggy.pim.tso.ch",
     "icon": "https://icons.duckduckgo.com/ip3/ziggy.pim.tso.ch.ico",
     "slug": "ziggy-pim-tso-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2148,
@@ -138,16 +138,18 @@
     "timeWeek": 2521,
     "timeMonth": 2148,
     "timeYear": 2148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-12": 1
+    }
   },
   {
     "name": "test.pim.tso.ch - Ohne PHP",
     "url": "https://test.pim.tso.ch",
     "icon": "https://icons.duckduckgo.com/ip3/test.pim.tso.ch.ico",
     "slug": "test-pim-tso-ch-ohne-php",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",

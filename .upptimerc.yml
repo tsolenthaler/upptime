@@ -35,6 +35,8 @@ sites:
     url: https://sos-ch-dk-2.exo.io/ziggypimtsoch/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
   - name: Exoscale - Object Storage SOS - Ziggy mit CDN
     url: https://ziggypimtsoch.sos-ch-dk-2.exoscale-cdn.com/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg
+  - name: AI Chat Test
+    url: https://tourismus-chat.vercel.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

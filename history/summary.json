@@ -48,11 +48,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/glarnerland.ch.ico",
     "slug": "glarnerland-ch",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1497,
     "timeDay": 1055,
     "timeWeek": 1316,
@@ -257,9 +257,9 @@
     "url": "https://ziggypimtsoch.sos-ch-dk-2.exoscale-cdn.com/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/ziggypimtsoch.sos-ch-dk-2.exoscale-cdn.com.ico",
     "slug": "exoscale-object-storage-sos-ziggy-mit-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -268,7 +268,9 @@
     "timeWeek": 222,
     "timeMonth": 266,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "AI Chat Test",

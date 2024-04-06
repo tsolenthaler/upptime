@@ -128,18 +128,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ziggy.pim.tso.ch.ico",
     "slug": "ziggy-pim-tso-ch",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 2497,
     "timeDay": 2931,
     "timeWeek": 3326,
     "timeMonth": 2938,
     "timeYear": 2497,
     "dailyMinutesDown": {
-      "2024-04-06": 2
+      "2024-04-06": 13
     }
   },
   {

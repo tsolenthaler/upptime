@@ -259,9 +259,9 @@
     "url": "https://ziggypimtsoch.sos-ch-dk-2.exoscale-cdn.com/catalog/f/b/8/b/fb8b6445a2f864ac4532703d8ce8941d9233f814_Stiftsbibliothek_St._Gallen_1.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/ziggypimtsoch.sos-ch-dk-2.exoscale-cdn.com.ico",
     "slug": "exoscale-object-storage-sos-ziggy-mit-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -271,6 +271,7 @@
     "timeMonth": 231,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-03-28": 16
     }
   },

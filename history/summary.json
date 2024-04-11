@@ -26,10 +26,10 @@
     "url": "https://contentdesk.io",
     "icon": "https://icons.duckduckgo.com/ip3/contentdesk.io.ico",
     "slug": "contentdesk-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 1568,
@@ -38,6 +38,7 @@
     "timeMonth": 1602,
     "timeYear": 1568,
     "dailyMinutesDown": {
+      "2024-04-11": 1,
       "2024-03-12": 39,
       "2024-02-20": 17
     }
@@ -67,9 +68,9 @@
     "url": "https://thurgau-bodensee.ch",
     "icon": "https://icons.duckduckgo.com/ip3/thurgau-bodensee.ch.ico",
     "slug": "thurgau-bodensee-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -79,6 +80,7 @@
     "timeMonth": 1676,
     "timeYear": 1560,
     "dailyMinutesDown": {
+      "2024-04-11": 0,
       "2024-03-12": 38,
       "2024-02-20": 17,
       "2024-02-14": 17
@@ -266,7 +268,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 253,
-    "timeDay": 215,
+    "timeDay": 205,
     "timeWeek": 200,
     "timeMonth": 234,
     "timeYear": 253,

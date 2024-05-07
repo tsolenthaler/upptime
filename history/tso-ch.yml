@@ -1,7 +1,7 @@
 url: https://tso.ch
-status: up
-code: 200
-responseTime: 1902
-lastUpdated: 2024-05-07T16:57:01.158Z
+status: down
+code: 502
+responseTime: 500
+lastUpdated: 2024-05-07T21:10:03.841Z
 startTime: 2024-02-13T09:57:42.511Z
 generator: Upptime <https://github.com/upptime/upptime>

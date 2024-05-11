@@ -1,7 +1,7 @@
 url: https://contentdesk.io
-status: up
-code: 200
-responseTime: 1544
-lastUpdated: 2024-05-11T23:03:31.455Z
+status: down
+code: 502
+responseTime: 892
+lastUpdated: 2024-05-11T23:50:11.814Z
 startTime: 2024-02-13T09:57:44.530Z
 generator: Upptime <https://github.com/upptime/upptime>

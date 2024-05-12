@@ -1,7 +1,7 @@
 url: https://test.pim.tso.ch
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-12T23:43:49.367Z
+status: up
+code: 200
+responseTime: 9740
+lastUpdated: 2024-05-12T23:56:43.262Z
 startTime: 2024-03-05T08:06:48.337Z
 generator: Upptime <https://github.com/upptime/upptime>
